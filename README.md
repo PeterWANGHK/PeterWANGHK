@@ -30,16 +30,6 @@ Prior to joining HKU, I received the B.Eng. degree (with Honors) in Electronic a
 
 ---
 
-### 🎓 Education  
-- **M.Phil. in Data & Systems Engineering**  
-  *The University of Hong Kong (2025 – present)*  
-  Supervisor: [Prof. Chen Sun](https://scholar.google.com/citations?user=LdBn-p4AAAAJ&hl=zh-CN) 
-- **B.Eng. (Hons) in Electronic & Information Engineering**  
-  *The Hong Kong Polytechnic University (2021 – 2025)*  
-  Supervisor: [Prof. Ivan Ho Wang‑Hei](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-ho-ivan/)  
-
----
-
 ### 🔥 Recent News  
 - 📆 **2026.05** - I will serve as the chairperson of student committee of [HKU Institute of Transport Studies](https://www.institute-of-transport-studies.hku.hk/) from term 2026-2027. Stay tuned for more seminars to come!
 - ✅ **2026.05** – First manuscript accepted at **[IEEE ITSC 2026](https://ieee-itsc.org/2026/)**! 🎉  
