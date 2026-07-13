@@ -36,7 +36,6 @@ Prior to joining HKU, I received the B.Eng. degree (with Honors) in Electronic a
   Supervisor: [Prof. Chen Sun](https://scholar.google.com/citations?user=LdBn-p4AAAAJ&hl=zh-CN) 
 - **B.Eng. (Hons) in Electronic & Information Engineering**  
   *The Hong Kong Polytechnic University (2021 – 2025)*  
-  Thesis: *DRL‑Optimized SLAM Hyperparameters for Cooperative Map Merging*  
   Supervisor: [Prof. Ivan Ho Wang‑Hei](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-ho-ivan/)  
 
 ---
