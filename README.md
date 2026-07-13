@@ -33,7 +33,7 @@ Prior to joining HKU, I received the B.Eng. degree (with Honors) in Electronic a
 ### 🎓 Education  
 - **M.Phil. in Data & Systems Engineering**  
   *The University of Hong Kong (2025 – present)*  
-  Supervisor: [Prof. Chen Sun](https://chensunmac.github.io/) | [HKU Social‑AI Systems Lab](https://github.com/SAS-HKU) 
+  Supervisor: [Prof. Chen Sun](https://scholar.google.com/citations?user=LdBn-p4AAAAJ&hl=zh-CN) | [HKU Social‑AI Systems Lab](https://github.com/SAS-HKU) 
 
 - **B.Eng. (Hons) in Electronic & Information Engineering**  
   *The Hong Kong Polytechnic University (2021 – 2025)*  
