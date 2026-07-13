@@ -51,5 +51,5 @@ Prior to joining HKU, I received the B.Eng. degree (with Honors) in Electronic a
 
 
 <p align="center">
-  <i>Let’s connect! Feel free to reach out for collaborations or discussions on autonomous driving safety.</i>
+  <i>Let’s connect! Feel free to reach out for collaborations or discussions.</i>
 </p>
