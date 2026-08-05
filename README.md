@@ -19,6 +19,9 @@ Prior to joining HKU, I received the B.Eng. degree (with Honors) in Electronic a
 - **Risk‑aware autonomous driving** – defensive maneuver planning, risk field inference, human‑like behavior  
 - **Safe reinforcement learning & physics‑informed learning** for intelligent transportation systems  
 - **Human‑machine interaction** and multi‑modal perception in dynamic environments  
+My research pipeline so far:
+
+![research_story](assets/research_timeline.jpg)
 
 ---
 ### 📌 Highlight Projects  
@@ -28,6 +31,9 @@ Prior to joining HKU, I received the B.Eng. degree (with Honors) in Electronic a
 - 🛡️ **[SAFE-AD – Social and Risk‑Aware RL for Autonomous Driving](https://github.com/PeterWANGHK/SAFE-AD.git)**
 - 📚 **[HKU DASE Course Materials](https://github.com/SAS-HKU/DASE7505_student)**  
 
+example demonstrations:
+1. field-based socially-aware autonomous navigation in crowded environments:
+![research_story](assets/STARBUCKS_LIMO.gif)
 ---
 
 ### 🔥 Recent News  
