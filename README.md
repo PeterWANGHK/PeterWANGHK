@@ -13,6 +13,13 @@ I am currently pursuing an M.Phil. degree with [Department of Data and Systems E
 
 
 Prior to joining HKU, I received the B.Eng. degree (with Honors) in Electronic and Information Engineering from [Department of Electrical and Electronic Engineering](https://www.polyu.edu.hk/eee/?sc_lang=en), The Hong Kong Polytechnic University in 2025.
+---
+
+### 🔥 Recent News  
+- 📆 **2026.05** - I will serve as the chairperson of student committee of [HKU Institute of Transport Studies](https://www.institute-of-transport-studies.hku.hk/) from term 2026-2027. Stay tuned for more seminars to come!
+- ✅ **2026.05** – First manuscript accepted at **[IEEE ITSC 2026](https://ieee-itsc.org/2026/)**! 🎉  
+- 🎤 **2026.03** – Gave my first [academic seminar at HKU Institute of Transport Studies](https://www.institute-of-transport-studies.hku.hk/post/student-seminar-by-mr-zian-wang-peter-on-mar-11-2026-1pm) 
+- 🚀 **2025.09** – Started M.Phil. at [HKU Dept. DASE](https://www.dase.hku.hk/) and joined HKU‑SAS Lab.
 
 ---
 ### 🚀 Research Interests  
@@ -34,13 +41,7 @@ My research pipeline so far:
 example demonstrations:
 1. field-based socially-aware autonomous navigation in crowded environments:
 ![research_story](assets/STARBUCKS_LIMO.gif)
----
 
-### 🔥 Recent News  
-- 📆 **2026.05** - I will serve as the chairperson of student committee of [HKU Institute of Transport Studies](https://www.institute-of-transport-studies.hku.hk/) from term 2026-2027. Stay tuned for more seminars to come!
-- ✅ **2026.05** – First manuscript accepted at **[IEEE ITSC 2026](https://ieee-itsc.org/2026/)**! 🎉  
-- 🎤 **2026.03** – Gave my first [academic seminar at HKU Institute of Transport Studies](https://www.institute-of-transport-studies.hku.hk/post/student-seminar-by-mr-zian-wang-peter-on-mar-11-2026-1pm) 
-- 🚀 **2025.09** – Started M.Phil. at [HKU Dept. DASE](https://www.dase.hku.hk/) and joined HKU‑SAS Lab.  
 
 ---
 
