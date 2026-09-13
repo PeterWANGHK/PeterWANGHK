@@ -9,7 +9,7 @@
 
 
 
-I am currently pursuing an M.Phil. degree with [Department of Data and Systems Engineering](https://www.dase.hku.hk/) at the University of Hong Kong, supervised by [Prof. Chen Sun](https://scholar.google.com/citations?user=LdBn-p4AAAAJ&hl=zh-CN). Our research group is called [HKU-SAIL Lab](https://github.com/SAS-HKU). 
+I am currently pursuing an M.Phil. degree with [Department of Data and Systems Engineering](https://www.dase.hku.hk/) at the University of Hong Kong, supervised by [Prof. Chen Sun](https://scholar.google.com/citations?user=LdBn-p4AAAAJ&hl=zh-CN). Our research group is called [HKU-SAIL Lab](https://hku-sas.hku.hk/). 
 
 Prior to joining HKU, I received the B.Eng. degree (with Honors) in Electronic and Information Engineering from [Department of Electrical and Electronic Engineering](https://www.polyu.edu.hk/eee/?sc_lang=en), The Hong Kong Polytechnic University in 2025.
 
@@ -19,7 +19,7 @@ Prior to joining HKU, I received the B.Eng. degree (with Honors) in Electronic a
 - 📆 **2026.05** - I will serve as the Deputy Chairperson of Student Committee of [HKU Institute of Transport Studies](https://www.institute-of-transport-studies.hku.hk/) from term 2026-2027. Stay tuned for more seminars to come!
 - ✅ **2026.05** – First manuscript accepted at **[IEEE ITSC 2026](https://ieee-itsc.org/2026/)**! 🎉  
 - 🎤 **2026.03** – Gave my first [academic seminar at HKU Institute of Transport Studies](https://www.institute-of-transport-studies.hku.hk/post/student-seminar-by-mr-zian-wang-peter-on-mar-11-2026-1pm) 
-- 🚀 **2025.09** – Started M.Phil. at [HKU Dept. DASE](https://www.dase.hku.hk/) and joined HKU‑SAS Lab.
+- 🚀 **2025.09** – Started M.Phil. at [HKU Dept. DASE](https://www.dase.hku.hk/) and joined HKU‑SAIL Lab.
 
 ---
 ### 🚀 Research Interests  
