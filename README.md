@@ -32,6 +32,9 @@ My research pipeline so far:
 
 ![research_story](assets/research_timeline.jpg)
 
+![cross_embodiment](assets/HKUSAIL_Cross_Embodiment_Skill_Transfer.jpg)
+
+
 ---
 ### 📌 Highlight Projects  
 <!-- Replace links with your actual repository URLs -->
