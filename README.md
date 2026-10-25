@@ -38,7 +38,8 @@ My research pipeline so far:
 - 🚗 **[DRIFT – Risk Field Propagation for Autonomous Driving](https://github.com/PeterWANGHK/DRIFT)**  
 - 🛡️ **[DREAM – Defensive Risk‑Aware Planner](https://github.com/SAS-HKU/DREAM)**
 - 🛡️ **[SAFE-AD – Social and Risk‑Aware RL for Autonomous Driving](https://github.com/PeterWANGHK/SAFE-AD.git)**
-- 📚 **[HKU DASE Course Materials](https://github.com/SAS-HKU/DASE7505_student)**  
+- 📚 **[HKU DASE Course Materials](https://github.com/SAS-HKU/DASE7505_student)**
+- 🚗 **[Hong Kong traffic long-tail scenario generations](https://peterwanghk.github.io/HK_SOTIF_case_trial/)**  
 
 example demonstrations:
 1. field-based socially-aware autonomous navigation in crowded environments:
