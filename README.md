@@ -24,6 +24,16 @@ Prior to joining HKU, I received the B.Eng. degree (with Honors) in Electronic a
 - 🚀 **2025.09** – Started M.Phil. at [HKU Dept. DASE](https://www.dase.hku.hk/) and joined HKU‑SAIL Lab.
 
 ---
+
+### 📌 Highlight Projects  
+<!-- Replace links with your actual repository URLs -->
+- 🚗 **[DRIFT – Risk Field Propagation for Autonomous Driving](https://github.com/PeterWANGHK/DRIFT)**  
+- 🛡️ **[DREAM – Defensive Risk‑Aware Planner](https://github.com/SAS-HKU/DREAM)**
+- 🛡️ **[SAFE-AD – Social and Risk‑Aware RL for Autonomous Driving](https://github.com/PeterWANGHK/SAFE-AD.git)**
+- 📚 **[HKU DASE Course Materials](https://github.com/SAS-HKU/DASE7505_student)**
+- 🚗 **[Hong Kong traffic long-tail scenario generations](https://peterwanghk.github.io/HK_SOTIF_case_trial/)**  
+---
+
 ### 🚀 Research Interests  
 - **Risk‑aware autonomous driving** – defensive maneuver planning, risk field inference, human‑like behavior  
 - **Safe reinforcement learning & physics‑informed learning** for intelligent transportation systems  
@@ -33,15 +43,7 @@ Prior to joining HKU, I received the B.Eng. degree (with Honors) in Electronic a
 
 
 ---
-### 📌 Highlight Projects  
-<!-- Replace links with your actual repository URLs -->
-- 🚗 **[DRIFT – Risk Field Propagation for Autonomous Driving](https://github.com/PeterWANGHK/DRIFT)**  
-- 🛡️ **[DREAM – Defensive Risk‑Aware Planner](https://github.com/SAS-HKU/DREAM)**
-- 🛡️ **[SAFE-AD – Social and Risk‑Aware RL for Autonomous Driving](https://github.com/PeterWANGHK/SAFE-AD.git)**
-- 📚 **[HKU DASE Course Materials](https://github.com/SAS-HKU/DASE7505_student)**
-- 🚗 **[Hong Kong traffic long-tail scenario generations](https://peterwanghk.github.io/HK_SOTIF_case_trial/)**  
-
-example demonstrations:
+### Technical demonstrations:
 1. field-based socially-aware autonomous navigation in crowded environments:
 ![research_story](assets/STARBUCKS_LIMO.gif)
 
