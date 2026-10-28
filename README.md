@@ -48,7 +48,7 @@ Prior to joining HKU, I received the B.Eng. degree (with Honors) in Electronic a
 ![research_story](assets/STARBUCKS_LIMO.gif)
 
 2. long-tail scenario generation for autonomous driving systems (ADS) testing:
-![research_story](assets/Weixin Videos2026-10-28_191209_822.gif)
+![research_story](assets/HKUSOTIF-demo-1.gif)
 
 ---
 
