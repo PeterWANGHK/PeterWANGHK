@@ -16,6 +16,7 @@ Prior to joining HKU, I received the B.Eng. degree (with Honors) in Electronic a
 ---
 
 ### 🔥 Recent News  
+- ✅ **2026.10** - [**SAFE-AD**](https://github.com/SAS-HKU/SAFE-AD.git) has been accepted by [**Communications in Transportation Research**](https://www.sciopen.com/journal/2097-5023)! 🎉
 - ✅ **2026.10** - Our paper, "*Generative-Enhanced Cascaded Diagnosis for Fine-Grained Pipeline Fault Severity Recognition with Hybrid LSNet–ViT*", has been accepted by **IEEE Transactions on Reliability**. Congrats, Mingjian!
 - ✅ **2026.09** - [**DREAM**](https://github.com/SAS-HKU/DREAM.git) has been accepted by [**Transportation Research Part C**](https://www.sciencedirect.com/journal/transportation-research-part-c-emerging-technologies)! 🎉 
 - 📆 **2026.05** - I will serve as the Deputy Chairperson of Student Committee of [HKU Institute of Transport Studies](https://www.institute-of-transport-studies.hku.hk/) from term 2026-2027. Stay tuned for more seminars to come!
