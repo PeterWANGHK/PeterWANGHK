@@ -44,14 +44,7 @@ Prior to joining HKU, I received the B.Eng. degree (with Honors) in Electronic a
 
 
 ---
-### Technical demonstrations:
-1. field-based socially-aware autonomous navigation in crowded environments:
-![research_story](assets/STARBUCKS_LIMO.gif)
 
-2. long-tail scenario generation for autonomous driving systems (ADS) testing:
-![research_story](assets/HKUSOTIF-demo-1.gif)
-
----
 
 
 <p align="center">
